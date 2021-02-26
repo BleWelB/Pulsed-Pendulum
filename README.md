@@ -1,5 +1,6 @@
 # Pulsed-Pendulum
-Study of the pulsed pendulum system\\
+Study of the pulsed pendulum system
+
 Introduction
 ============
 

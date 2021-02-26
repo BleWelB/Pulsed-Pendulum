@@ -41,12 +41,10 @@ périodique forcé de pulsation &omega;.
 ![image](sys.png)
 
 L’angle entre le disque 1 et la verticale est noté &theta;(t). Les
-angles pour les autres disques sont alors égaux à
-![\large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.latex?\large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a})
-&theta;<sub>2</sub>(t) = &theta;(t)+\frac{2 \pi}{3}$ et à
-$\theta_3(t) = \theta(t)+\frac{4 \pi}{3}$. $\alpha$ est l’angle entre
+angles pour les autres disques sont alors égaux à &theta;(t) à 2&pi;/3 près.
+&alpha; est l’angle entre
 l’aimant et la verticale et comme le mouvement de l’aimant est
-périodique de pulsation $\omega$, alors
+périodique de pulsation &omega;, alors
 
 $\alpha (t) = \alpha_0 \text{cos}(\omega t),$
 

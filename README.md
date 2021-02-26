@@ -42,7 +42,7 @@ périodique forcé de pulsation &omega;.
 
 L’angle entre le disque 1 et la verticale est noté &theta;(t). Les
 angles pour les autres disques sont alors égaux à
-![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a})
+![x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.latex?;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a})
 &theta;<sub>2</sub>(t) = &theta;(t)+\frac{2 \pi}{3}$ et à
 $\theta_3(t) = \theta(t)+\frac{4 \pi}{3}$. $\alpha$ est l’angle entre
 l’aimant et la verticale et comme le mouvement de l’aimant est

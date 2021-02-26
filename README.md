@@ -9,7 +9,7 @@ par des équations simples à solutions analytiques classiques,
 périodiques et stables. Ces systèmes sont appelés *systèmes chaotiques*.
 Leur étude est relativement récente puisqu’elle nécessite des
 algorithmes complexes pour la résolution des équations, grandement
-facilitée par l’outil numérique.\
+facilitée par l’outil numérique.
 
 Ce projet s’intègre dans la démarche d’étude des systèmes chaotiques à
 l’aide de l’outil informatique. Il a pour but de modéliser et d’étudier
@@ -17,7 +17,7 @@ la dynamique d’un système chaotique que nous nommerons *pendule pulsé*
 tout au long de ce rapport. Il s’agit d’observer sa **transition de
 l’ordre vers le chaos** avec l’évolution des paramètres utiles en
 modélisant le mouvement et de regarder les phénomènes de **résonance**
-ainsi que d’**accrochage de fréquences** que l’on définira.\
+ainsi que d’**accrochage de fréquences** que l’on définira.
 
 Il sera essentiel d’effectuer tout d’abord une description rigoureuse du
 système et d’**établir ses équations de mouvement**. Ensuite, nous
@@ -33,10 +33,10 @@ Description du système
 ----------------------
 
 Le pendule pulsé est un système à un seul degré de liberté. Il est
-composé de 3 disques de masse $M$ et de rayon $R$ pouvant tourner autour
+composé de 3 disques de masse &M; et de rayon $R$ pouvant tourner autour
 d’un axe central. Ils y sont reliés par des tiges de longueur $l$. Ces
 disques sont mis en mouvement par un aimant, ayant lui-même un mouvement
-périodique forcé de pulsation $\omega$.\
+périodique forcé de pulsation &\omega;.
 
 ![image](sys.png)
 

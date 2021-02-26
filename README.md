@@ -46,7 +46,7 @@ angles pour les autres disques sont alors égaux à &theta;(t) à 2&pi;/3 près.
 l’aimant et la verticale et comme le mouvement de l’aimant est
 périodique de pulsation &omega;, alors
 
-![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}) 
+![\large x=\frac{-b\pm\sqrt{b^2-4ac}} {2a}](https://latex.codecogs.com/svg.latex?\large&space;x=\frac{-b\pm\sqrt{b^2-4ac}} {2a}) 
 $\alpha (t) = \alpha_0 \text{cos}(\omega t),$
 
 avec &alpha;<sub>0</sub> dans [-&pi; ; &pi;]. La coordonnée généralisée

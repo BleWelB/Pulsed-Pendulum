@@ -1,6 +1,6 @@
 # Pulsed-Pendulum
-Study of the pulsed pendulum system
-Introduction {#introduction .unnumbered}
+Study of the pulsed pendulum system\\
+Introduction
 ============
 
 Le monde regorge de systèmes dont le mouvement ne peut pas être décrit

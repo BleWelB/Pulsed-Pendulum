@@ -33,16 +33,16 @@ Description du système
 ----------------------
 
 Le pendule pulsé est un système à un seul degré de liberté. Il est
-composé de 3 disques de masse &M; et de rayon $R$ pouvant tourner autour
-d’un axe central. Ils y sont reliés par des tiges de longueur $l$. Ces
+composé de 3 disques de masse *M* et de rayon *R* pouvant tourner autour
+d’un axe central. Ils y sont reliés par des tiges de longueur *l*. Ces
 disques sont mis en mouvement par un aimant, ayant lui-même un mouvement
 périodique forcé de pulsation &omega;.
 
 ![image](sys.png)
 
-L’angle entre le disque 1 et la verticale est noté $\theta(t)$. Les
+L’angle entre le disque 1 et la verticale est noté &theta;(t). Les
 angles pour les autres disques sont alors égaux à
-$\theta_2(t) = \theta(t)+\frac{2 \pi}{3}$ et à
+&theta;<sub>2</sub>(t) = &theta;(t)+\frac{2 \pi}{3}$ et à
 $\theta_3(t) = \theta(t)+\frac{4 \pi}{3}$. $\alpha$ est l’angle entre
 l’aimant et la verticale et comme le mouvement de l’aimant est
 périodique de pulsation $\omega$, alors

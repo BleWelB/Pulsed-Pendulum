@@ -36,7 +36,7 @@ Le pendule pulsé est un système à un seul degré de liberté. Il est
 composé de 3 disques de masse &M; et de rayon $R$ pouvant tourner autour
 d’un axe central. Ils y sont reliés par des tiges de longueur $l$. Ces
 disques sont mis en mouvement par un aimant, ayant lui-même un mouvement
-périodique forcé de pulsation &\omega;.
+périodique forcé de pulsation &omega;.
 
 ![image](sys.png)
 

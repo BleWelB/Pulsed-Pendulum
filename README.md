@@ -19,7 +19,6 @@ l’aimant et la verticale et comme le mouvement de l’aimant est
 périodique de pulsation &omega;, alors
 
 ![\large \alpha(t)=\alpha_0\text{cos}(t\omega)](https://latex.codecogs.com/svg.latex?\large&space;\alpha(t)=\alpha_0\text{cos}(t\omega)) 
-$\alpha (t) = \alpha_0 \text{cos}(\omega t),$
 
 avec &alpha;<sub>0</sub> dans [-&pi; ; &pi;]. La coordonnée généralisée
 choisie pour déterminer les équations du mouvement est &theta;(t).

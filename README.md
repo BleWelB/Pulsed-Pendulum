@@ -2,7 +2,7 @@
 Study of the pulsed pendulum system
 
 Le pendule pulsé
-================
+-----------------
 
 Le pendule pulsé est un système à un seul degré de liberté. Il est
 composé de 3 disques de masse *M* et de rayon *R* pouvant tourner autour
